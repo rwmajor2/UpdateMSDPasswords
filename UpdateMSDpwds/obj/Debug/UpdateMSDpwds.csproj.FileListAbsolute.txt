@@ -1,0 +1,7 @@
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\bin\Debug\UpdateMSDpwds.dll
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\bin\Debug\UpdateMSDpwds.pdb
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\obj\Debug\UpdateMSDpwds.analyzeForm.resources
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\obj\Debug\UpdateMSDpwds.csproj.GenerateResource.Cache
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\obj\Debug\UpdateMSDpwds.dll
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\obj\Debug\UpdateMSDpwds.pdb
+c:\users\robe5155\documents\visual studio 2012\Projects\UpdateMSDpwds\UpdateMSDpwds\bin\Debug\UpdateMSDpwds.esriAddIn

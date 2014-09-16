@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>UpdateMSDpwds</Name>
+  <AddInID>{271e1254-352e-49c6-ab52-e99c48bb650e}</AddInID>
+  <Description>Type in a description for this Add-in.</Description>
+  <Version>1.0</Version>
+  <Image>Images\UpdateMSDpwds.png</Image>
+  <Author>robe5155</Author>
+  <Company>ESRI</Company>
+  <Date>9/15/2014</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR" library="UpdateMSDpwds.dll" namespace="UpdateMSDpwds">
+    <ArcCatalog>
+      <Commands>
+        <Button id="ESRI_UpdateMSDpwds_btnUpdateMSDpwds" class="btnUpdateMSDpwds" message="Update DB user pwds in MSD" caption="Update DB user pwds in MSD" tip="Update DB user pwds in MSD" category="Add-In Controls" image="Images\btnUpdateMSDpwds.png" />
+      </Commands>
+    </ArcCatalog>
+  </AddIn>
+</ESRI.Configuration>
